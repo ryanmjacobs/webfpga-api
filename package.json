@@ -1,0 +1,29 @@
+{
+  "name": "webfpga-api",
+  "version": "0.0.1",
+  "description": "JavaScript implementation of the WebFPGA API",
+  "main": "none",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webfpga/webfpga-api.git"
+  },
+  "keywords": [
+    "web",
+    "fpga",
+    "webfpga",
+    "api",
+    "javascript"
+  ],
+  "author": "Ryan Jacobs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webfpga/webfpga-api/issues"
+  },
+  "homepage": "https://github.com/webfpga/webfpga-api#readme"
+}
